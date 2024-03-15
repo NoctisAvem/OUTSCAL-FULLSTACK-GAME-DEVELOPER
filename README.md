@@ -1,5 +1,5 @@
 # OUTSCAL-FULLSTACK-GAME-DEVELOPER
-Excellent bootcamp from Outscal -  ža professional fullstack game developer course.
+Excellent bootcamp from Outscal -  a professional fullstack game developer course.
 
 https://outscal.com/course/full-stack-game-development/
 
